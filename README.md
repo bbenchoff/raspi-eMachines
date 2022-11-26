@@ -16,7 +16,7 @@ Assembly is simple, as the Pi screws directly to the chassis -- the front and sh
 
 ## Decals
 
-The stickers used on this case are waterslide decals, printed on an Alps dye-sub printer. The decal sheet was printed through [Bedlam Creations](https://www.bedlamcreations.com/), at a cost of about $10 for a 75x50mm sheet. This decal sheet also includes the graphics for the raspi-SGIIndy case, so if you're making one you might as well make two.
+The stickers used on this case are waterslide decals, printed on an Alps dye-sub printer. The decal sheet was printed through [Bedlam Creations](https://www.bedlamcreations.com/), at a cost of about $10 for a 75x50mm sheet. This decal sheet also includes the graphics for the raspi-SGIIndy case, so if you're making one you might as well make two. Unless your printer does white ink, no, you can not make this at home. Also, someone should buy me an Alps dye-sub printer.
 
 The illustrator file for the waterslide graphics are provided in the relevant directory.
 
